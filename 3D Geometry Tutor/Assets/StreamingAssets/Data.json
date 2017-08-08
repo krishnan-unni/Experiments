@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cube",
+    "description": "A cube has 6 sides"
+  },
+  {
+    "name": "Sphere",
+    "description": "A sphere has 1 side"
+  },
+
+  {
+    "name": "Cylinder",
+    "description": "A cylinder has 3 sides"
+  }
+]

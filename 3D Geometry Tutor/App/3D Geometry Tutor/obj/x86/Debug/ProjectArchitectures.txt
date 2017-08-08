@@ -1,0 +1,1 @@
+D:\Projects\GitHub\3D Geometry Tutor\App\3D Geometry Tutor\3D Geometry Tutor.csproj;x86

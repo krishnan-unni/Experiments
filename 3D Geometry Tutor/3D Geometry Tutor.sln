@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Geometry Tutor", "3D Geometry Tutor.csproj", "{C220BA4C-84AF-EF8E-BD13-43E781C36D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Geometry Tutor.Editor", "3D Geometry Tutor.Editor.csproj", "{0F9027B9-3332-4CC8-F256-AB31511C68EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C220BA4C-84AF-EF8E-BD13-43E781C36D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C220BA4C-84AF-EF8E-BD13-43E781C36D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C220BA4C-84AF-EF8E-BD13-43E781C36D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C220BA4C-84AF-EF8E-BD13-43E781C36D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9027B9-3332-4CC8-F256-AB31511C68EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9027B9-3332-4CC8-F256-AB31511C68EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9027B9-3332-4CC8-F256-AB31511C68EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9027B9-3332-4CC8-F256-AB31511C68EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
